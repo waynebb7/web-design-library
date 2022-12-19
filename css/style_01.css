@@ -1,0 +1,16 @@
+.flex-container {
+    display: flex;
+    background: rgb(217, 230, 245);
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.flex-item {
+    flex: 1 1 auto;
+    background-color: lightsteelblue;
+    box-sizing: border-box;
+    border: 1px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
